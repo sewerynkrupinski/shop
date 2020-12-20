@@ -69,3 +69,7 @@ C:\Users\Zofka\source\repos\shop\Shop\Shop\obj\Debug\Shop.csprojAssemblyReferenc
 C:\Users\Zofka\source\repos\shop\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
 C:\Users\Zofka\source\repos\shop\Shop\Shop\obj\Debug\Shop.dll
 C:\Users\Zofka\source\repos\shop\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Zofka\source\repos\shop\Shop\Shop\bin\EntityFramework.dll
+C:\Users\Zofka\source\repos\shop\Shop\Shop\bin\EntityFramework.SqlServer.dll
+C:\Users\Zofka\source\repos\shop\Shop\Shop\bin\EntityFramework.xml
+C:\Users\Zofka\source\repos\shop\Shop\Shop\bin\EntityFramework.SqlServer.xml
